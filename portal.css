@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color:#E6E6FA;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button{
+    background-color: #e27ac8;
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+    width: 160px;
+    border: #5a1768;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+table{
+    margin-left: 15%;
+    margin-top: 10px;
+    width: 65%;
+    height: 12cm;
+    background-color: #D8BFD8;
+    border-radius: 12px;
+}
+.botao{
+    padding: 50px;
+    width: 500px;
+    height: 200px;
+    border: transparent;
+    display: flex;
+    justify-content: center;
+}
